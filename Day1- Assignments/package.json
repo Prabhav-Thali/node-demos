@@ -1,0 +1,19 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "Day1 Assignment ",
+  "main": "Demo_Day1.js",
+  "dependencies": {
+    "mathjs": "^6.2.2",
+    "express": "*",
+    "body-parser": "*",
+    "mongodb": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhav",
+  "license": "ISC"
+}
