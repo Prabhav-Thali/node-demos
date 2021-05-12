@@ -4,7 +4,7 @@
   "description": "Day1 Assignment ",
   "main": "Demo_Day1.js",
   "dependencies": {
-    "mathjs": "^6.2.2",
+    "mathjs": "^7.5.1",
     "express": "*",
     "body-parser": "*",
     "mongodb": "*",
